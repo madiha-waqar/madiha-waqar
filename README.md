@@ -1,4 +1,4 @@
-[![MasterHead](./docs/madihawaqar_github_banner.png)](https://github.com/madiha-waqar.github.io)
+[![MasterHead](./docs/madihawaqar_github_banner.png)](https://www.linkedin.com/in/madihawaqar/)
 
 ### Hi there 🖐️ 
 
