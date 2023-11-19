@@ -1,11 +1,11 @@
-[![MasterHead](./docs/banner%203.png)](https://github.com/madiha-waqar.github.io)
+[![MasterHead](./docs/madihawaqar_github_banner.png)](https://github.com/madiha-waqar.github.io)
 
 ### Hi there 🖐️ 
 
 <ul>
   <li>💻 My name is Madiha Waqar</li>
   <li>📈 Recently finished my Diploma in Web Development from Lighthouse Labs</li>
-  <li>⚠️ Have background in customer service and software quality assurance & testing</li>
+  <li>🚩 Have background in customer service and software quality assurance & testing</li>
   <li>💪 Running a home based web development business</li>
   <li>🌱 Digging deeper and learning C# & advanced Javascript </li>
   <li>🍁 I'm currently living in GTHA Ontario, Canada</li>
