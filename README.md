@@ -12,7 +12,7 @@
   <li>👨‍💻 I love to learn new technologies and go forward into this world</li>
 </ul><br/>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-waqar/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madihawaqar/)
 
 ![Madiha Waqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madiha-waqar&show_icons=true&theme=dracula)
 
