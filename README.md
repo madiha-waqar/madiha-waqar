@@ -4,7 +4,7 @@
 
 <ul>
   <li>💻 My name is Madiha Waqar</li>
-  <li>📈 Recently finished my Diploma in Web Development from Lighthouse Labs</li>
+  <li>📈 Recently finished my Diploma in Web Development from Lighthouse Labs. Currently enrolled in Humber College and completing Full Stack .Net Cloud Developer certificate</li>
   <li>🚩 Have background in customer service and software quality assurance & testing</li>
   <li>💪 Running a home based web development business</li>
   <li>🌱 Digging deeper and learning C# & advanced Javascript </li>
