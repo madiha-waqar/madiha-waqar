@@ -44,4 +44,4 @@
 <hr/>
 <br/>
 
-I have a passion for acquiring new skills and exploring the vast landscape of technology. I've actively applied my abilities in various volunteer projects. Additionally, spending quality time with my family and engaging in enjoyable activities brings me immense joy. As someone aiming to secure their first job in the tech industry, I am enthusiastic about leveraging my skills and knowledge to contribute effectively
+I have a passion for acquiring new skills and exploring the vast landscape of technology. I've actively applied my abilities in various volunteer projects. Additionally, spending quality time with my family and engaging in enjoyable activities brings me immense joy. As someone aiming to persue full stack developement, I am enthusiastic about leveraging my skills and knowledge to contribute effectively towards this career.
